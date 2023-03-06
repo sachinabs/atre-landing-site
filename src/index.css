@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+body {
+    overflow: hidden;
+    font-family: 'DM Sans';
+}
+
+.custom-overflow {
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.custom-overflow::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    border-radius: 0px;
+    background-color: #F5F5F5;
+}
+
+.custom-overflow::-webkit-scrollbar {
+    width: 0px;
+    background-color: #F5F5F5;
+}
+
+.custom-overflow::-webkit-scrollbar-thumb {
+    border-radius: 0px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, .3);
+    background-color: #555;
+}
+
+#dancing_script {
+    font-family: 'Dancing Script';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 58px;
+    text-align: center;
+    color: #4DB648;
+}
+
+#dancing_script_sub {
+    font-family: 'Dancing Script';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 43px;
+    text-align: center;
+    color: #6E6B72;
+}

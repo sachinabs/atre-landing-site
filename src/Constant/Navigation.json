@@ -1,0 +1,27 @@
+[
+  {
+    "name": "home",
+    "label": "Home",
+    "nav": "/"
+  },
+  {
+    "name": "aboutus",
+    "label": "About us",
+    "nav": "/about"
+  },
+  {
+    "name": "career",
+    "label": "Career",
+    "nav": "/career"
+  },
+  {
+    "name": "product",
+    "label": "Product",
+    "nav": "/product/1"
+  },
+  {
+    "name": "news",
+    "label": "News & Articles",
+    "nav": "/article"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Tele-robotic Ultrasound System",
+    "description": "Tele-robotic ultrasound system, which allows trained sonographers or radiologists to operate the ultrasound machine remotely, while the patient is examined by a local healthcare worker.",
+    "image": "https://images.unsplash.com/photo-1602052577122-f73b9710adba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  },
+  {
+    "id": 2,
+    "title": "Surgical simulator",
+    "description": "Surgical simulator, which provides a realistic and interactive training experience for surgeons. The simulator allows surgeons to practice procedures in a safe and controlled.",
+    "image": "https://images.unsplash.com/photo-1602052577122-f73b9710adba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  }
+]
